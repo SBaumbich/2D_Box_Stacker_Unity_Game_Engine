@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Scott\Downloads\Desktop\2d Box Stacker\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73f315da73552e6fb676486ca07e439dcd2bbfac">
+        <dex dex="C:\Users\Scott\Downloads\Desktop\2d Box Stacker\app\build\intermediates\pre-dexed\debug\unity-classes-fec842a499445b30bb9f1072a21020ee760db015.jar" />
+    </item>
+
+</items>
